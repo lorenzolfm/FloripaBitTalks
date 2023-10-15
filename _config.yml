@@ -1,6 +1,6 @@
 # Build settings
 baseurl: /
-url: https://floripabitdevs.org
+url: https://floripabittalks.org
 
 markdown: kramdown
 highlighter: rouge
@@ -12,8 +12,8 @@ sass:
   style: :compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Floripa Bitdevs"
-description: "BitDevs é uma comunidade para aqueles interessados em discutir e participar da pesquisa e desenvolvimento do Bitcoin e protocolos relacionados."
+title: "Floripa BitTalks"
+description: "Floripa BitTalks é uma comunidade para aqueles interessados em discutir sobre Bitcoin e protocolos relacionados."
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
