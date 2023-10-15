@@ -3,5 +3,5 @@ tagline: 'Floripa BitTalks é uma comunidade para aqueles interessados em discut
 
 menu:
   - {name: 'Sobre', url: '/about'}
-  - {name: 'Eventos', url: '/events'}
-  - {name: 'Meetup', url: 'https://meetup.com/pt-BR/floripa-bitdevs', external: true}
+  - {name: 'Encontros', url: '/events'}
+  - {name: 'Meetup', url: 'https://meetup.com/pt-BR/floripa-bittalks', external: true}
