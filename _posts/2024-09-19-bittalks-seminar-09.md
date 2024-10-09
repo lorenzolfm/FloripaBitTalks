@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitalks 9"
+title: "BitTalks 9"
 meetup: https://www.meetup.com/clube-bitcoin-floripa/events/303387770
 ---
 

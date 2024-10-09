@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Bitalks 10"
+title: "BitTalks 10"
 meetup: https://www.meetup.com/clube-bitcoin-floripa/events/303749963
 ---
 
@@ -15,7 +15,7 @@ meetup: https://www.meetup.com/clube-bitcoin-floripa/events/303749963
 
 ## Cronograma
 
-- Um papo sobre auto-custodia e custodiantes
+- Um papo sobre auto-custodia e custodiantes.
 > É necessário tirar o dinheiro da Bipa para outra carteira, Hot ou Cold, ou é seguro deixar na Bipa? A Bipa é custodiante e responsável pelos valores? Tem seguro FGC ou algo do tipo?
 - Como comprar Bitcon sem KYC?
 - Qual a melhor maneira pra um comércio receber bitcoin?
