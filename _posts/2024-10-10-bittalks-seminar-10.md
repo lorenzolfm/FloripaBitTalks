@@ -8,6 +8,7 @@ meetup: https://www.meetup.com/clube-bitcoin-floripa/events/303749963
 ## Avisos
 
 - Entrem no grupo do Whatsapp [Floripa Bittalks](https://chat.whatsapp.com/EvI2yV0atAF4ccSOXJxJF1)!
+- Satsconf (8 e 9 de Novembro) em SP. Use o cupom MAFE15.
 - Semana que vem (17/10) tem o Workshop do Nerdminer!
 
 ## Agradecimentos
