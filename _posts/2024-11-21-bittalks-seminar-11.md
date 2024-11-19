@@ -20,3 +20,4 @@ meetup: https://www.meetup.com/clube-bitcoin-floripa/events/304539177
 - EUA vai adotar Bitcoin como reserva de valor?
 - SatsConf 2024
 - OP_NEXT
+- Merkle Tree workshop preview
